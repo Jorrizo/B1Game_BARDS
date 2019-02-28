@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 58f54277009912441a4a1281673b6623
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: boite
+    100002: couvercle
+    100004: cylindre
+    100006: cylindre 1
+    100008: palette
+    100010: pCube1
+    100012: pCube1 1
+    100014: pCube2
+    100016: pCube2 1
+    100018: pCube3
+    100020: pCube3 1
+    100022: pCylinder1
+    100024: pied_1
+    100026: pied_2
+    100028: pied_3
+    100030: pilier
+    100032: pilier_1
+    100034: pilier_2
+    100036: pilier_3
+    100038: place3dTexture1
+    100040: "poign\xE9e"
+    100042: "poign\xE9e_1"
+    100044: "poign\xE9e_2"
+    100046: rouage_1
+    100048: rouage_10
+    100050: rouage_11
+    100052: rouage_12
+    100054: rouage_13
+    100056: rouage_14
+    100058: rouage_15
+    100060: rouage_16
+    100062: rouage_17
+    100064: rouage_18
+    100066: rouage_2
+    100068: rouage_3
+    100070: rouage_4
+    100072: rouage_5
+    100074: rouage_6
+    100076: rouage_7
+    100078: rouage_8
+    100080: rouage_9
+    100082: rouage_escalier
+    100084: scene
+    100086: //RootNode
+    100088: transform1
+    100090: transform1 1
+    100092: transform2
+    100094: transform2 1
+    100096: transform3
+    100098: transform3 1
+    100100: transform4
+    100102: transform4 1
+    100104: visse
+    100106: visse_1
+    100108: visse_1 1
+    100110: visse_1 2
+    100112: visse_2
+    100114: visse_2 1
+    100116: visse_2 2
+    100118: visse_3
+    400000: boite
+    400002: couvercle
+    400004: cylindre
+    400006: cylindre 1
+    400008: palette
+    400010: pCube1
+    400012: pCube1 1
+    400014: pCube2
+    400016: pCube2 1
+    400018: pCube3
+    400020: pCube3 1
+    400022: pCylinder1
+    400024: pied_1
+    400026: pied_2
+    400028: pied_3
+    400030: pilier
+    400032: pilier_1
+    400034: pilier_2
+    400036: pilier_3
+    400038: place3dTexture1
+    400040: "poign\xE9e"
+    400042: "poign\xE9e_1"
+    400044: "poign\xE9e_2"
+    400046: rouage_1
+    400048: rouage_10
+    400050: rouage_11
+    400052: rouage_12
+    400054: rouage_13
+    400056: rouage_14
+    400058: rouage_15
+    400060: rouage_16
+    400062: rouage_17
+    400064: rouage_18
+    400066: rouage_2
+    400068: rouage_3
+    400070: rouage_4
+    400072: rouage_5
+    400074: rouage_6
+    400076: rouage_7
+    400078: rouage_8
+    400080: rouage_9
+    400082: rouage_escalier
+    400084: scene
+    400086: //RootNode
+    400088: transform1
+    400090: transform1 1
+    400092: transform2
+    400094: transform2 1
+    400096: transform3
+    400098: transform3 1
+    400100: transform4
+    400102: transform4 1
+    400104: visse
+    400106: visse_1
+    400108: visse_1 1
+    400110: visse_1 2
+    400112: visse_2
+    400114: visse_2 1
+    400116: visse_2 2
+    400118: visse_3
+    2100000: noir
+    2100002: lambert1
+    2100004: cuivre
+    2100006: blinn3
+    2100008: blinn2
+    2300000: boite
+    2300002: couvercle
+    2300004: cylindre 1
+    2300006: palette
+    2300008: pCylinder1
+    2300010: pied_1
+    2300012: pied_2
+    2300014: pied_3
+    2300016: pilier_1
+    2300018: pilier_2
+    2300020: pilier_3
+    2300022: "poign\xE9e_1"
+    2300024: "poign\xE9e_2"
+    2300026: rouage_1
+    2300028: rouage_10
+    2300030: rouage_11
+    2300032: rouage_12
+    2300034: rouage_13
+    2300036: rouage_14
+    2300038: rouage_15
+    2300040: rouage_16
+    2300042: rouage_17
+    2300044: rouage_18
+    2300046: rouage_2
+    2300048: rouage_3
+    2300050: rouage_4
+    2300052: rouage_5
+    2300054: rouage_6
+    2300056: rouage_7
+    2300058: rouage_8
+    2300060: rouage_9
+    2300062: visse_2 1
+    2300064: visse_2 2
+    2300066: visse_3
+    3300000: boite
+    3300002: couvercle
+    3300004: cylindre 1
+    3300006: palette
+    3300008: pCylinder1
+    3300010: pied_1
+    3300012: pied_2
+    3300014: pied_3
+    3300016: pilier_1
+    3300018: pilier_2
+    3300020: pilier_3
+    3300022: "poign\xE9e_1"
+    3300024: "poign\xE9e_2"
+    3300026: rouage_1
+    3300028: rouage_10
+    3300030: rouage_11
+    3300032: rouage_12
+    3300034: rouage_13
+    3300036: rouage_14
+    3300038: rouage_15
+    3300040: rouage_16
+    3300042: rouage_17
+    3300044: rouage_18
+    3300046: rouage_2
+    3300048: rouage_3
+    3300050: rouage_4
+    3300052: rouage_5
+    3300054: rouage_6
+    3300056: rouage_7
+    3300058: rouage_8
+    3300060: rouage_9
+    3300062: visse_2 1
+    3300064: visse_2 2
+    3300066: visse_3
+    4300000: "poign\xE9e_1"
+    4300002: "poign\xE9e_2"
+    4300004: couvercle
+    4300006: boite
+    4300008: cylindre
+    4300010: pied_2
+    4300012: pied_1
+    4300014: pied_3
+    4300016: rouage_1
+    4300018: rouage_2
+    4300020: rouage_3
+    4300022: rouage_4
+    4300024: rouage_5
+    4300026: rouage_6
+    4300028: rouage_7
+    4300030: rouage_8
+    4300032: rouage_9
+    4300034: rouage_10
+    4300036: rouage_11
+    4300038: rouage_12
+    4300040: rouage_13
+    4300042: rouage_14
+    4300044: rouage_15
+    4300046: rouage_16
+    4300048: rouage_17
+    4300050: rouage_18
+    4300052: palette
+    4300054: visse_2
+    4300056: visse_3
+    4300058: visse_2
+    4300060: pilier_1
+    4300062: pilier_2
+    4300064: pilier_3
+    4300066: pCylinder1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
